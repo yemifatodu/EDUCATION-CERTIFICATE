@@ -5,6 +5,7 @@ Welcome to my GitHub portfolio! Here you can explore my projects, skills, and co
 
 [Download Resume](https://github.com/yemifatodu/EDUCATION-EXPERINCEC-CERTICATE/blob/main/OPEYEMI%20E.%20FATODU%20CV.pdf)
 
+![Data Science Resume](https://github.com/yemifatodu/EDUCATION-CERTIFICATE/blob/main/DATA%20SCIENCE%20RESUME.png)
 
 
 
